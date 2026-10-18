@@ -1,0 +1,7 @@
+# 需要 Python 3.10 / 3.11 / 3.12（PyTorch 目前尚未提供 3.13+ 的官方轮子）
+ultralytics>=8.1.0
+opencv-python>=4.8.0
+numpy>=1.24,<3
+PyYAML>=6.0
+torch>=2.0.0
+torchvision>=0.15.0
